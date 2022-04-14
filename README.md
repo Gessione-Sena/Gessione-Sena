@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Gessione-Sena
+- 👋 Hi, I’m @gessionesena
 - 👀 I’m interested in Web Development and programming
 - 🌱 I’m currently learning HTML/CSS
 --------------------------------------
 
-- 👋 Oi, sou @Gessione-Sena 
+- 👋 Oi, sou @gessionesena 
 - 👀 Estou interessado em desenvolvimento web e programação
 - 🌱 Atualmente estou aprendendo HTML/CSS/JS
 - [x] HTML
