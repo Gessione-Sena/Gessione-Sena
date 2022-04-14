@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @gessionesena
+- 👋 Hi, I’m **@gessionesena**
 - 👀 I’m interested in Web Development and programming
-- 🌱 I’m currently learning HTML/CSS
---------------------------------------
+- 🌱 I’m currently learning HTML/CSS/JS
+***
 
-- 👋 Oi, sou @gessionesena 
+- 👋 Oi, sou **@gessionesena** 
 - 👀 Estou interessado em desenvolvimento web e programação
-- 🌱 Atualmente estou aprendendo HTML/CSS/JS
+- 🌱 Atualmente estou aprendendo HTML, CSS e Java Script
 - [x] HTML
 - [x] CSS
 - [ ] JS
